@@ -1,0 +1,9 @@
+#cover{
+    width: 45%;
+    float: left;
+    padding-right: 20px;
+}
+
+#description{
+    font-size: 150%;
+}
