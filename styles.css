@@ -22,10 +22,13 @@ body{
 .menu a{
     font-size: 125%;
     font-variant: small-caps;
+}
+
+a{
     color: #4747f1;
 }
 
-.menu a:visited{
+a:visited{
     color: #4747f1;
 }
 
@@ -54,3 +57,6 @@ p{
     color: #333333;
 }
 
+#contact{
+    text-align: center;
+}
